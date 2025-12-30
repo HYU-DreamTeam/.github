@@ -12,5 +12,3 @@ https://hyu-dreamteam.github.io/WebApplication/
 
 ### Canva 링크
 https://www.canva.com/design/DAG8skzcC10/T5DOv-esnMTdmAo1W34WIA/edit
-
-### 프로젝트 구조
