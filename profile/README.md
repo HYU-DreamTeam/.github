@@ -1,7 +1,16 @@
-## 웹애플리케이션개발 팀
+# WebApplication
 
-### 팀원
-**박재형** <br>
-**윤태웅** <br>
-**원준서** <br>
-**이주혜**
+### Notion 링크 
+https://www.notion.so/Interactive-Portfolio-Web-Application-2d64ba166b238069a547e450080db684
+
+
+### Figma 링크
+https://www.figma.com/design/UGKtApCo2HpaKQAUAGRMjL/Untitled?node-id=0-1&p=f
+
+### 웹 서버 링크
+https://hyu-dreamteam.github.io/WebApplication/
+
+### Canva 링크
+https://www.canva.com/design/DAG8skzcC10/T5DOv-esnMTdmAo1W34WIA/edit
+
+### 프로젝트 구조
