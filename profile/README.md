@@ -9,6 +9,9 @@ https://www.figma.com/design/UGKtApCo2HpaKQAUAGRMjL/Untitled?node-id=0-1&p=f
 ### 웹 서버 링크
 https://hyu-dreamteam.github.io/WebApplication/
 
+### WAD demo 링크
+https://hyu-dreamteam.github.io/WAD-Demo/
+
 ### Canva 주제 발표 링크
 https://www.canva.com/design/DAG8skzcC10/T5DOv-esnMTdmAo1W34WIA/edit
 
@@ -17,3 +20,4 @@ https://www.canva.com/design/DAG9j0qHZow/SY2QSKZ1wyTnLUbntfoDiQ/edit
 
 ### Canva 최종 발표 링크
 https://www.canva.com/design/DAG9z0UZJB8/ek-zPBbXA3Bk0p6yASpAzA/edit
+
