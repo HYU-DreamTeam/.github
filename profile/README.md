@@ -6,7 +6,7 @@ https://www.notion.so/Interactive-Portfolio-Web-Application-2d64ba166b238069a547
 ### Figma 링크
 https://www.figma.com/design/UGKtApCo2HpaKQAUAGRMjL/Untitled?node-id=0-1&p=f
 
-### 웹 서버 링크
+### WAD 웹페이지 링크
 https://hyu-dreamteam.github.io/WebApplication/
 
 ### WAD demo 링크
